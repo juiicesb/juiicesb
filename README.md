@@ -5,6 +5,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiicesb&layout=compact&theme=tokyonight" height="195.2px"/>
 </a>
 
+---
+
 🔧 **Senior Systems Administrator | DevOps & Infrastructure Engineer**
 
 Con más de 6 años de experiencia trabajando para un **grupo de empresas en multiples sectores**, gestionando entornos críticos, automatización y despliegue de servicios en infraestructuras híbridas.  
