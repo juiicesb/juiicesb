@@ -7,12 +7,12 @@
 
 ---
 
-🔧 **Senior Systems Administrator | DevOps & Infrastructure Engineer**
+### Senior Systems Administrator | DevOps & Infrastructure Engineer
 
 Con más de 6 años de experiencia trabajando para un **grupo de empresas en multiples sectores**, gestionando entornos críticos, automatización y despliegue de servicios en infraestructuras híbridas.  
 Enfocado en **virtualización, networking, ciberseguridad, desarrollo de microservicios y APIs**.
 
-### ⚙️ Core Skills
+### Core Skills
 - **Virtualization & Infra:** VMware ESXi, Proxmox, P2P, fibra, LTE  
 - **DevOps & Containers:** Docker, CI/CD, automatización de despliegues  
 - **Backends & Services:** Go (Golang), Redis, REST APIs, microservicios  
@@ -20,5 +20,5 @@ Enfocado en **virtualización, networking, ciberseguridad, desarrollo de microse
 - **Security:** Gestión de certificados, hardening, segmentación, videovigilancia IP  
 - **IT Admin:** Gestión de dominios, cuentas, billing, certificados SSL, Workspace admin
 
-### 🛰️ Field Ops
+### Field Ops
 Despliegue de infraestructura onsite, redes, cámaras y sistemas de seguridad, trabajando conjuntamente con ISPs como Movistar, Vodafone, Digi, Excom en España.
