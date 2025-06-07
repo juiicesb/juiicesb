@@ -23,4 +23,4 @@ Focused on **virtualization, networking, cybersecurity, microservices developmen
 
 ### Field Ops
 
-Onsite infrastructure deployment, networks, cameras, and security systems, working alongside ISPs such as Movistar, Vodafone, Digi, and Excom in Spain.
+Onsite infrastructure deployment, networks, cameras and alarm systems, working alongside ISPs such as Movistar, Vodafone, Digi, and Excom in Spain.
