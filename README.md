@@ -9,16 +9,18 @@
 
 ### Senior System Administrator, DevOps & Infrastructure Engineer
 
-Con más de 6 años de experiencia trabajando para un **grupo de empresas en multiples sectores**, gestionando entornos críticos, automatización y despliegue de servicios en infraestructuras híbridas.  
-Enfocado en **virtualización, networking, ciberseguridad, desarrollo de microservicios y APIs**.
+With over 6 years of experience working for a **group of companies across multiple sectors**, managing critical environments, automation, and service deployment in hybrid infrastructures.  
+Focused on **virtualization, networking, cybersecurity, microservices development, and APIs**.
 
 ### Core Skills
-- **Virtualization & Infra:** VMware ESXi, Proxmox, P2P, fibra, LTE  
-- **DevOps & Containers:** Docker, CI/CD, automatización de despliegues  
-- **Backends & Services:** Go (Golang), Redis, REST APIs, microservicios  
-- **Networking:** Routing, switching, firewalling, tunelado, VLANs  
-- **Security:** Gestión de certificados, hardening, segmentación, videovigilancia IP  
-- **IT Admin:** Gestión de dominios, cuentas, billing, certificados SSL, Workspace admin
+
+- **Virtualization & Infra:** VMware ESXi, Proxmox, P2P, fiber, LTE  
+- **DevOps & Containers:** Docker, CI/CD, deployment automation  
+- **Backends & Services:** Go (Golang), Redis, REST APIs, microservices  
+- **Networking:** Routing, switching, firewalling, tunneling, VLANs  
+- **Security:** Certificate management, hardening, segmentation, IP video surveillance  
+- **IT Admin:** Domain management, accounts, billing, SSL certificates, Workspace admin
 
 ### Field Ops
-Despliegue de infraestructura onsite, redes, cámaras y sistemas de seguridad, trabajando conjuntamente con ISPs como Movistar, Vodafone, Digi, Excom en España.
+
+Onsite infrastructure deployment, networks, cameras, and security systems, working alongside ISPs such as Movistar, Vodafone, Digi, and Excom in Spain.
